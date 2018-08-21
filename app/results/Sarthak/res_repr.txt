@@ -1,0 +1,158 @@
+
+
+
+USERS
+
+
+<Users> total = 48
+	0 http://twitter.com/TheColdViews
+	1 http://twitter.com/kbuddyfarm
+	2 http://twitter.com/TanSA05
+	3 http://twitter.com/iamprikankshit
+	4 http://twitter.com/bhavna_nagpal
+	5 http://twitter.com/mnkvachher
+	6 http://twitter.com/vishalmidha
+	7 http://twitter.com/HappyBoo77
+	8 http://twitter.com/IIITDAlums
+	9 http://twitter.com/hirdayam09
+	10 http://twitter.com/kakamble13052
+	11 http://twitter.com/piyushpkv
+	12 http://twitter.com/MrinalKachhara
+	13 http://twitter.com/iamagambajaj
+	14 http://twitter.com/AdityaujjwalRaj
+	15 http://twitter.com/rsIIITD
+	16 http://twitter.com/apoorvnarang
+	17 http://twitter.com/rk020327
+	18 http://twitter.com/Chanch_95
+	19 http://twitter.com/j60065571
+	20 http://twitter.com/ankurs13
+	21 http://twitter.com/ShivamRustogi
+	22 http://twitter.com/Twitthosts
+	23 http://twitter.com/RonyBonthor
+	24 http://twitter.com/lakshikaverma9
+	25 http://twitter.com/kajal203040
+	26 http://twitter.com/chikara_anjli
+	27 http://twitter.com/lifecodemohit
+	28 http://twitter.com/SwasticY
+	29 http://twitter.com/docrraj
+	30 http://twitter.com/purni_singh
+	31 http://twitter.com/sujeet14108
+	32 http://twitter.com/pulkitarora_21
+	33 http://twitter.com/shakyboss
+	34 http://twitter.com/EsyaIIITD
+	35 http://twitter.com/kushagramah27
+	36 http://twitter.com/namanspace
+	37 http://twitter.com/SenguptaSrishti
+	38 http://twitter.com/normagracia404
+	39 http://twitter.com/sharanagrawal19
+	40 http://twitter.com/alex_mercer111
+	41 http://twitter.com/mgulati10
+	42 http://twitter.com/taruvaraggarwal
+	43 http://twitter.com/jayasimehar
+	44 http://twitter.com/chhibbss
+	45 http://twitter.com/savitadabral
+	46 http://twitter.com/shikhargautam
+	47 http://twitter.com/TrustModi
+
+
+
+RESOURCES
+
+
+<Resources> total = 20
+	0 http://twitter.com/TheColdViews/status/723522927308713984
+	1 http://twitter.com/TheColdViews/status/722344476761530368
+	2 http://twitter.com/TheColdViews/status/722343324871471104
+	3 http://twitter.com/TheColdViews/status/722331286837198849
+	4 http://twitter.com/TheColdViews/status/722329263999811584
+	5 http://twitter.com/TheColdViews/status/722328935166443520
+	6 http://twitter.com/TheColdViews/status/722326845404778496
+	7 http://twitter.com/TheColdViews/status/722322412373716993
+	8 http://twitter.com/TheColdViews/status/722321951985922048
+	9 http://twitter.com/TheColdViews/status/722120470959493120
+	10 http://twitter.com/TheColdViews/status/722071037601517568
+	11 http://twitter.com/TheColdViews/status/722068415796551681
+	12 http://twitter.com/TheColdViews/status/721993783592640512
+	13 http://twitter.com/TheColdViews/status/721890316740124680
+	14 http://twitter.com/TheColdViews/status/721804447333093376
+	15 http://twitter.com/TheColdViews/status/721734509616570368
+	16 http://twitter.com/TheColdViews/status/721692385718181888
+	17 http://twitter.com/TheColdViews/status/715591895699759104
+	18 http://twitter.com/TheColdViews/status/714424905291268096
+	19 http://twitter.com/TheColdViews/status/703637148822441984
+
+
+
+TAGS
+
+
+<Tags> total = 7
+	0 http://twitter.com/#search?q=#CSE501
+	1 http://twitter.com/#search?q=#BBI2016
+	2 http://twitter.com/#search?q=#Fettle
+	3 http://twitter.com/#search?q=#LovingmyFacultyLife
+	4 http://twitter.com/#search?q=#DHCS
+	5 http://twitter.com/#search?q=#IndvsWI
+	6 http://twitter.com/#search?q=#IndvsPak
+
+
+
+RELATIONS
+
+
+(0, 0, 0)
+(0, 0, 1)
+(0, 1, 1)
+(0, 1, 0)
+(0, 1, 2)
+(0, 2, 1)
+(0, 2, 0)
+(0, 2, 2)
+(0, 3, 1)
+(0, 3, 0)
+(0, 3, 2)
+(0, 4, 1)
+(0, 4, 0)
+(0, 4, 2)
+(0, 5, 1)
+(0, 5, 0)
+(0, 5, 2)
+(0, 6, 1)
+(0, 6, 0)
+(0, 6, 2)
+(0, 7, 1)
+(0, 7, 0)
+(0, 7, 2)
+(0, 8, 1)
+(0, 8, 0)
+(0, 8, 2)
+(0, 9, 1)
+(0, 9, 0)
+(0, 10, 1)
+(0, 10, 0)
+(0, 10, 3)
+(0, 11, 2)
+(0, 11, 4)
+(0, 11, 1)
+(0, 11, 0)
+(0, 12, 2)
+(0, 12, 4)
+(0, 12, 1)
+(0, 12, 0)
+(0, 13, 2)
+(0, 13, 4)
+(0, 13, 1)
+(0, 13, 0)
+(0, 14, 2)
+(0, 14, 4)
+(0, 14, 1)
+(0, 14, 0)
+(0, 15, 2)
+(0, 15, 4)
+(0, 15, 1)
+(0, 15, 0)
+(0, 16, 4)
+(0, 16, 1)
+(0, 16, 0)
+(0, 17, 5)
+(0, 19, 6)

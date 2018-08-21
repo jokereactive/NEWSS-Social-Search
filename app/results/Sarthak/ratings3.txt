@@ -1,0 +1,93 @@
+
+
+
+TOP USERS
+
+
+[0.082424, 0, http://twitter.com/TheColdViews]
+[0.001333, 1, http://twitter.com/kbuddyfarm]
+[0.001333, 2, http://twitter.com/TanSA05]
+[0.001333, 3, http://twitter.com/iamprikankshit]
+[0.001333, 4, http://twitter.com/bhavna_nagpal]
+[0.001333, 5, http://twitter.com/mnkvachher]
+[0.001333, 6, http://twitter.com/vishalmidha]
+[0.001333, 7, http://twitter.com/HappyBoo77]
+[0.001333, 8, http://twitter.com/IIITDAlums]
+[0.001333, 9, http://twitter.com/hirdayam09]
+[0.001333, 10, http://twitter.com/kakamble13052]
+[0.001333, 11, http://twitter.com/piyushpkv]
+[0.001333, 12, http://twitter.com/MrinalKachhara]
+[0.001333, 13, http://twitter.com/iamagambajaj]
+[0.001333, 14, http://twitter.com/AdityaujjwalRaj]
+[0.001333, 15, http://twitter.com/rsIIITD]
+[0.001333, 16, http://twitter.com/apoorvnarang]
+[0.001333, 17, http://twitter.com/rk020327]
+[0.001333, 18, http://twitter.com/Chanch_95]
+[0.001333, 19, http://twitter.com/j60065571]
+[0.001333, 20, http://twitter.com/ankurs13]
+[0.001333, 21, http://twitter.com/ShivamRustogi]
+[0.001333, 22, http://twitter.com/Twitthosts]
+[0.001333, 23, http://twitter.com/RonyBonthor]
+[0.001333, 24, http://twitter.com/lakshikaverma9]
+[0.001333, 25, http://twitter.com/kajal203040]
+[0.001333, 26, http://twitter.com/chikara_anjli]
+[0.001333, 27, http://twitter.com/lifecodemohit]
+[0.001333, 28, http://twitter.com/SwasticY]
+[0.001333, 29, http://twitter.com/docrraj]
+[0.001333, 30, http://twitter.com/purni_singh]
+[0.001333, 31, http://twitter.com/sujeet14108]
+[0.001333, 32, http://twitter.com/pulkitarora_21]
+[0.001333, 33, http://twitter.com/shakyboss]
+[0.001333, 34, http://twitter.com/EsyaIIITD]
+[0.001333, 35, http://twitter.com/kushagramah27]
+[0.001333, 36, http://twitter.com/namanspace]
+[0.001333, 37, http://twitter.com/SenguptaSrishti]
+[0.001333, 38, http://twitter.com/normagracia404]
+[0.001333, 39, http://twitter.com/sharanagrawal19]
+[0.001333, 40, http://twitter.com/alex_mercer111]
+[0.001333, 41, http://twitter.com/mgulati10]
+[0.001333, 42, http://twitter.com/taruvaraggarwal]
+[0.001333, 43, http://twitter.com/jayasimehar]
+[0.001333, 44, http://twitter.com/chhibbss]
+[0.001333, 45, http://twitter.com/savitadabral]
+[0.001333, 46, http://twitter.com/shikhargautam]
+[0.001333, 47, http://twitter.com/TrustModi]
+
+
+
+TOP RESOURCES
+
+
+[0.061095, 10, http://twitter.com/TheColdViews/status/722071037601517568]
+[0.002301, 11, http://twitter.com/TheColdViews/status/722068415796551681]
+[0.002301, 12, http://twitter.com/TheColdViews/status/721993783592640512]
+[0.002301, 13, http://twitter.com/TheColdViews/status/721890316740124680]
+[0.002301, 14, http://twitter.com/TheColdViews/status/721804447333093376]
+[0.002301, 15, http://twitter.com/TheColdViews/status/721734509616570368]
+[0.002159, 17, http://twitter.com/TheColdViews/status/715591895699759104]
+[0.002159, 19, http://twitter.com/TheColdViews/status/703637148822441984]
+[0.002149, 16, http://twitter.com/TheColdViews/status/721692385718181888]
+[0.002112, 1, http://twitter.com/TheColdViews/status/722344476761530368]
+[0.002112, 2, http://twitter.com/TheColdViews/status/722343324871471104]
+[0.002112, 3, http://twitter.com/TheColdViews/status/722331286837198849]
+[0.002112, 4, http://twitter.com/TheColdViews/status/722329263999811584]
+[0.002112, 5, http://twitter.com/TheColdViews/status/722328935166443520]
+[0.002112, 6, http://twitter.com/TheColdViews/status/722326845404778496]
+[0.002112, 7, http://twitter.com/TheColdViews/status/722322412373716993]
+[0.002112, 8, http://twitter.com/TheColdViews/status/722321951985922048]
+[0.001959, 0, http://twitter.com/TheColdViews/status/723522927308713984]
+[0.001959, 9, http://twitter.com/TheColdViews/status/722120470959493120]
+[0.001333, 18, http://twitter.com/TheColdViews/status/714424905291268096]
+
+
+
+TOP TAGS
+
+
+[0.157653, 3, http://twitter.com/#search?q=#LovingmyFacultyLife]
+[0.013440, 0, http://twitter.com/#search?q=#CSE501]
+[0.013440, 1, http://twitter.com/#search?q=#BBI2016]
+[0.004735, 2, http://twitter.com/#search?q=#Fettle]
+[0.002778, 4, http://twitter.com/#search?q=#DHCS]
+[0.002159, 5, http://twitter.com/#search?q=#IndvsWI]
+[0.002159, 6, http://twitter.com/#search?q=#IndvsPak]
